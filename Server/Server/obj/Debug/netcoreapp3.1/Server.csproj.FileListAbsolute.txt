@@ -1,0 +1,39 @@
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\App.g.cs
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.cache
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.lref
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.g.resources
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\InstituteThing\Summer Training\2\Socket_Sample_Code\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.AssemblyReference.cache
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\App.g.cs
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.cache
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server_MarkupCompile.lref
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.g.resources
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CopyComplete
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\data\Desktop\Socket_Sample_Code-master\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
